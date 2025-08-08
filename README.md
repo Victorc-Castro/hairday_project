@@ -21,32 +21,49 @@ Este projeto me ajudou a entender como diversas ferramentas e conceitos se conec
 
 ## 💻 Estrutura do Projeto
 hadirday_project
+
 ├── dist/                 # Build gerado pelo Webpack (ignorado pelo Git)
+
 ├── node_modules/         # Dependências (ignorado pelo Git)
+
 ├── src/                  # Código fonte do frontend
+
 ├── .gitignore
+
 ├── index.html
+
 ├── package-lock.json
+
 ├── package.json
+
 ├── README.md
+
 ├── server.json           # Banco de dados fake do json-server
+
 └──  webpack.config.js
 
 ## 💾 Pré Requisitos
 Node.js instalado
+
 npm ou yarn
 
 ## 🚀 Como Rodar
 1. Rodar a API com json-server:
+
  --> npm install -g json-server   # (se ainda não tiver instalado)
+ 
  --> npm run server               # (para inicar a API fake na porta 3333)
 
-2. Rodar o frontend com Webpack:
+3. Rodar o frontend com Webpack:
+   
  --> npm install
+ 
  --> npm run dev                  # (Isso inicia o servidor Webpack para o frontend)
 
-3. Uso:
+5. Uso:
+   
  --> Abra o navegador e acesse o endereço que o Webpack informar.
+ 
  --> Faça agendamentos que serão salvos na API fake do json-server.
 
 ## ⚙️ Tecnologias
