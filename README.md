@@ -43,9 +43,9 @@ hadirday_project
 └──  webpack.config.js
 
 ## 💾 Pré Requisitos
-Node.js instalado
+--> Node.js instalado
 
-npm ou yarn
+--> npm ou yarn
 
 ## 🚀 Como Rodar
 1. Rodar a API com json-server:
@@ -54,13 +54,13 @@ npm ou yarn
  
  --> npm run server               # (para inicar a API fake na porta 3333)
 
-3. Rodar o frontend com Webpack:
+2. Rodar o frontend com Webpack:
    
  --> npm install
  
  --> npm run dev                  # (Isso inicia o servidor Webpack para o frontend)
 
-5. Uso:
+3. Uso:
    
  --> Abra o navegador e acesse o endereço que o Webpack informar.
  
