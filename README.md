@@ -4,7 +4,7 @@
 
 [🇧🇷 Leia esta documentação em Português](./README.pt-BR.md)
 
-## 👩‍💻 Key Learnings
+## 👩‍💻 What I Learned
 
 During the development of Hairday, I applied several fundamental concepts for full-stack web projects. Some of the main takeaways include:
 
