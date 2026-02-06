@@ -2,6 +2,8 @@
  <img src="./src/assets/project-cover.png" alt="Foto de capa" width="100%" />
 </p>    
 
+[🇺🇸 Read this documentation in English](./README.md)
+
 ## 👩‍💻 Aprendizados
 Durante o desenvolvimento do Hairday, aprendi e apliquei vários conceitos fundamentais para projetos web completos, tanto no fronted quanto no backend. Alguns dos principais aprendizados incluem:
  --> Webpack: Configurei do zero um bundler para agrupar os arquivos do frontend, criando um ambiente de desenvolvimento moderno com recarregamento automático, organização modular e build otimizado.
@@ -30,13 +32,15 @@ hadirday_project
 
 ├── .gitignore
 
+├── README.md
+
+├── README.pt-BR.md
+
 ├── index.html
 
 ├── package-lock.json
 
 ├── package.json
-
-├── README.md
 
 ├── server.json           # Banco de dados fake do json-server
 
