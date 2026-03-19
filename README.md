@@ -25,11 +25,11 @@ This project was essential in understanding how different tools and concepts con
 💻 Project Structure
 hadirday_project
 
-├── dist/                 # Webpack build (ignored by Git)
+├── dist/                 #Webpack build (ignored by Git)
 
-├── node_modules/         # Dependencies (ignored by Git)
+├── node_modules/         #Dependencies (ignored by Git)
 
-├── src/                  # Frontend source code
+├── src/                  #Frontend source code
 
 ├── .gitignore
 
@@ -43,7 +43,7 @@ hadirday_project
 
 ├── package.json
 
-├── server.json           # Fake database (json-server)
+├── server.json           #Fake database (json-server)
 
 └── webpack.config.js
 
